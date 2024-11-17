@@ -1,0 +1,37 @@
+/*to provide styling first we have to select html element*/
+/* *(star) is universal selector the applled property will  be apllied on each html elemnt */
+/*
+*{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande';
+}*/
+/*element selector*/ 
+/*
+h2
+{
+    color: brown;
+    background: gray;
+    font-size: 30px;
+}*/
+/*if we have to apply some style on some part of the text then we kept that part into <span>*/
+/*
+span
+{
+    font-size: 3rem;
+    
+}
+p{
+    font-weight: bolder;
+    text-decoration: underline;
+    font-style: oblique;
+}   */
+
+/*class selector */
+.para
+{
+    color: blue;
+}
+/* id selector */
+#unique
+{
+    color: brown;
+}
